@@ -1,0 +1,19 @@
+ param names	:  \Omega_{sfdm 1 }sfdm_{parameters 1  1 }sfdm_{parameters 1  2 }100~\omega_{b }H0            M             \Omega_{\Lambda }\Omega_{m }   
+ R-1 values	:  0.036432	 0.280120	 2.223719	 0.316443	 0.673421	 0.642701	 0.092486	 0.668457	
+ Best Fit  	:  2.422724e-01	-1.702986e+01	 3.036049e+00	 2.241562e+00	 6.763299e+01	-1.942697e+01	 7.071361e-01	 5.051256e-02	
+ mean      	:  2.413553e-01	-1.970211e+01	 2.675867e+00	 2.240760e+00	 6.815123e+01	-1.941096e+01	 7.088101e-01	 4.975682e-02	
+ sigma     	:  6.450375e-03	 nan	 nan	 9.979258e-03	 nan	 nan	 6.925400e-03	 nan	
+
+ 1-sigma - 	: -6.517908e-03	 nan	 nan	-1.086527e-02	 nan	 nan	-7.080149e-03	 nan	
+ 1-sigma + 	:  6.382843e-03	 nan	 nan	 9.093248e-03	 nan	 nan	 6.770651e-03	 nan	
+ 2-sigma - 	: -1.368199e-02	 nan	 nan	-2.077301e-02	 nan	 nan	-1.456952e-02	 nan	
+ 2-sigma + 	:  1.348127e-02	 nan	 nan	 1.980860e-02	 nan	 nan	 1.462012e-02	 nan	
+ 3-sigma - 	:  nan	 nan	 nan	-2.932856e-02	 nan	 nan	-2.370639e-02	 nan	
+ 3-sigma + 	:  nan	 nan	 nan	 2.935192e-02	 nan	 nan	 2.178872e-02	 nan	
+
+ 1-sigma > 	:  2.348373e-01	 nan	 nan	 2.229895e+00	 nan	 nan	 7.017299e-01	 nan	
+ 1-sigma < 	:  2.477381e-01	 nan	 nan	 2.249853e+00	 nan	 nan	 7.155807e-01	 nan	
+ 2-sigma > 	:  2.276733e-01	 nan	 nan	 2.219987e+00	 nan	 nan	 6.942405e-01	 nan	
+ 2-sigma < 	:  2.548365e-01	 nan	 nan	 2.260568e+00	 nan	 nan	 7.234302e-01	 nan	
+ 3-sigma > 	:  nan	 nan	 nan	 2.211431e+00	 nan	 nan	 6.851037e-01	 nan	
+ 3-sigma < 	:  nan	 nan	 nan	 2.270112e+00	 nan	 nan	 7.305988e-01	 nan	
